@@ -19,6 +19,7 @@ A command-line interface tool to quickly set up web applications with custom opt
 
 - Node.js (version >= 16.x)
 - npm (version >= 8.x) or yarn
+- Currenty doesn't support app-router structure, only pages-router.
 
 ## Installation
 
